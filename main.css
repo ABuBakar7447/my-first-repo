@@ -1,6 +1,7 @@
 .biriani{
     color:blue;
     border: 10px solid red;
-    margin: 50px 50px;
-    padding: 50px 50px;
+    border-radius: 5px;
+    text-align: left;
+    margin: 50px 90% 10px 10px;
 }
